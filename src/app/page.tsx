@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{" Sai Hlyan Phyoe "}
+            By{" Sai Hlyan Phyoe Phyoe"}
             <img
               src="/vercel.svg"
               alt="Vercel Logo"
